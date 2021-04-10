@@ -1,7 +1,7 @@
 {
   "name": "@sursev07/vue-hacktiv-footer",
-  "author":"sursev07",
-  "version": "0.0.2",
+  "author": "sursev07",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/vue-hacktiv-footer.ssr.js",
   "browser": "dist/vue-hacktiv-footer.esm.js",
