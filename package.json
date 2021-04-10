@@ -1,6 +1,9 @@
 {
-  "name": "@sursev07/vue-hacktiv-footer",
-  "author": "sursev07",
+  "name": "vue-hacktiv-footer",
+  "author": {
+    "name": "sursev",
+    "email": "simangunsong.seven@gmail.com"
+},
   "version": "0.0.3",
   "description": "",
   "main": "dist/vue-hacktiv-footer.ssr.js",
@@ -41,10 +44,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Sursev07/vue-hacktiv-footer"
-  },
+  "repository": "https://github.com/Sursev07/vue-hacktiv-footer",
   "peerDependencies": {
     "vue": "^2.6.12"
   },
