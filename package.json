@@ -1,5 +1,6 @@
 {
-  "name": "vue-hacktiv-footer",
+  "name": "@sursev07/vue-hacktiv-footer",
+  "author":"sursev07",
   "version": "0.0.2",
   "description": "",
   "main": "dist/vue-hacktiv-footer.ssr.js",
@@ -38,8 +39,9 @@
     "vue-template-compiler": "^2.6.12"
   },
   "publishConfig": {
-    "registry":"https://github.com/Sursev07/vue-hacktiv-footer"
+    "registry": "https://npm.pkg.github.com/"
   },
+  "repository": "git://github.com/Sursev07/vue-hacktiv-footer",
   "peerDependencies": {
     "vue": "^2.6.12"
   },
