@@ -1,6 +1,6 @@
 {
   "name": "vue-hacktiv-footer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/vue-hacktiv-footer.ssr.js",
   "browser": "dist/vue-hacktiv-footer.esm.js",
@@ -36,6 +36,9 @@
     "rollup-plugin-vue": "^5.1.9",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
+  },
+  "publishConfig": {
+    "registry":"https://github.com/Sursev07/vue-hacktiv-footer"
   },
   "peerDependencies": {
     "vue": "^2.6.12"

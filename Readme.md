@@ -23,4 +23,4 @@ export default {
 
 
 ### Detail
-See [github](https://cli.vuejs.org/config/).
+See [github](https://github.com/Sursev07/vue-hacktiv-footer).
