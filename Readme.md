@@ -5,12 +5,12 @@
 
 ## Project setup
 ```
-npm install vue-hacktiv-footer
+npm install vue-hacktiv8-footer
 ```
 
 ### import package on component
 ```
-import HFooter from 'vue-hacktiv-footer'
+import HFooter from 'vue-hacktiv8-footer'
 
 export default {
   components: {
