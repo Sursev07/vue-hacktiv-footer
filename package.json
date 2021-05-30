@@ -4,7 +4,7 @@
     "name": "sursev",
     "email": "simangunsong.seven@gmail.com"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/vue-hacktiv-footer.ssr.js",
   "browser": "dist/vue-hacktiv-footer.esm.js",
