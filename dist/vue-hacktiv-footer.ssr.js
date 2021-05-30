@@ -56,6 +56,50 @@ function _nonIterableRest() {
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 var script = {
   name: "hacktiv-footer"
 };function normalizeComponent(template, style, script, scopeId, isFunctionalTemplate, moduleIdentifier /* server only */, shadowMode, createInjector, createInjectorSSR, createInjectorShadow) {
@@ -184,7 +228,7 @@ var __vue_render__ = function __vue_render__() {
 
   return _c('div', {
     staticClass: "footer"
-  }, []);
+  }, [_vm._ssrNode("<div class=\"footer-left\" data-v-9e902c46><img src=\"https://i.postimg.cc/Y2NMhk3W/Logo-Hacktiv8-bordered-1.png\" alt class=\"logo-hacktiv8\" data-v-9e902c46></div> <div class=\"footer-bottom-row\" data-v-9e902c46><div class=\"social-links\" data-v-9e902c46><a href=\"https://twitter.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-9e902c46><img src=\"https://img.icons8.com/metro/26/ffffff/twitter.png\" alt class=\"social-link-image\" data-v-9e902c46></a><a href=\"https://www.facebook.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-9e902c46><img src=\"https://img.icons8.com/metro/26/ffffff/facebook-new--v2.png\" alt class=\"social-link-image\" data-v-9e902c46></a><a href=\"https://instagram.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-9e902c46><img src=\"https://img.icons8.com/metro/26/ffffff/instagram-new.png\" alt class=\"social-link-image\" data-v-9e902c46></a><a href=\"https://www.youtube.com/c/hacktiv8\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-9e902c46><img src=\"https://img.icons8.com/metro/26/ffffff/youtube.png\" class=\"social-link-image\" data-v-9e902c46></a></div></div>")]);
 };
 
 var __vue_staticRenderFns__ = [];
@@ -192,8 +236,8 @@ var __vue_staticRenderFns__ = [];
 
 var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
   if (!inject) return;
-  inject("data-v-f1e498e2_0", {
-    source: ".header[data-v-f1e498e2]{display:flex;justify-content:center;align-items:center;height:70px;border-bottom:1px solid #ddd}.content[data-v-f1e498e2]{display:flex;justify-content:center;align-items:center;height:320px;background-color:#ebebeb}.footer[data-v-f1e498e2]{height:50px;background-position-y:center;background-size:160px auto;background-repeat-y:no-repeat;border-top:1px solid #ddd;background-image:url(https://global-uploads.webflow.com/5f0d53c042a9ed6288de7f8d/5f6337ae2cfaa10946ceeb06_Hacktiv8%20logo%20horizontal%2001%20black-p-500.png);animation:imageMovement-data-v-f1e498e2 2s linear infinite}@keyframes imageMovement-data-v-f1e498e2{from{background-position-x:0}to{background-position-x:160px}}",
+  inject("data-v-9e902c46_0", {
+    source: ".footer[data-v-9e902c46]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}.footer-bottom-row[data-v-9e902c46]{margin-right:20px}.footer-bottom-links[data-v-9e902c46]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}.logo-hacktiv8[data-v-9e902c46]{max-width:100px;padding:20px;align-items:center;margin-left:20px}.social-link[data-v-9e902c46]{margin-right:20px;color:#7d7e7e}",
     map: undefined,
     media: undefined
   });
@@ -201,10 +245,10 @@ var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
 /* scoped */
 
 
-var __vue_scope_id__ = "data-v-f1e498e2";
+var __vue_scope_id__ = "data-v-9e902c46";
 /* module identifier */
 
-var __vue_module_identifier__ = "data-v-f1e498e2";
+var __vue_module_identifier__ = "data-v-9e902c46";
 /* functional template */
 
 var __vue_is_functional_template__ = false;

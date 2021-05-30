@@ -23,8 +23,3 @@ export default {
 ```
 <HFooter></HFooter>
 ```
-
-
-
-### Detail
-See [github](https://github.com/Sursev07/vue-hacktiv-footer).
