@@ -1,4 +1,7 @@
-# simple-app
+# hacktiv-footer
+
+## Output
+[![hacktiv-footer-black.png](https://i.postimg.cc/4xGgG0t1/hacktiv-footer-black.png)](https://postimg.cc/RNg8QXg3)
 
 ## Project setup
 ```
@@ -20,6 +23,7 @@ export default {
 ```
 <HFooter></HFooter>
 ```
+
 
 
 ### Detail
