@@ -204,7 +204,7 @@ var __vue_staticRenderFns__ = [function () {
   }, [_c('div', {
     staticClass: "footer-left"
   }, [_c('img', {
-    staticClass: "logo-hacktiv8",
+    staticClass: "logo-hacktiv8 img-logo",
     attrs: {
       "src": "https://i.postimg.cc/Y2NMhk3W/Logo-Hacktiv8-bordered-1.png",
       "alt": ""
@@ -266,8 +266,8 @@ var __vue_staticRenderFns__ = [function () {
 
 const __vue_inject_styles__ = function (inject) {
   if (!inject) return;
-  inject("data-v-9e902c46_0", {
-    source: ".footer[data-v-9e902c46]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}.footer-bottom-row[data-v-9e902c46]{margin-right:20px}.footer-bottom-links[data-v-9e902c46]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}.logo-hacktiv8[data-v-9e902c46]{max-width:100px;padding:20px;align-items:center;margin-left:20px}.social-link[data-v-9e902c46]{margin-right:20px;color:#7d7e7e}",
+  inject("data-v-6869b9c3_0", {
+    source: ".footer[data-v-6869b9c3]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}.footer-bottom-row[data-v-6869b9c3]{margin-right:20px}.footer-bottom-links[data-v-6869b9c3]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}.logo-hacktiv8[data-v-6869b9c3]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}.social-link[data-v-6869b9c3]{margin-right:20px;color:#7d7e7e}.social-link-image[data-v-6869b9c3]:hover{animation:rotation-data-v-6869b9c3 8s infinite linear}@keyframes rotation-data-v-6869b9c3{from{transform:rotate(0)}to{transform:rotate(359deg)}}.img-logo[data-v-6869b9c3]{transition:transform .7s ease-in-out}.img-logo[data-v-6869b9c3]:hover{transform:rotate(360deg)}",
     map: undefined,
     media: undefined
   });
@@ -275,7 +275,7 @@ const __vue_inject_styles__ = function (inject) {
 /* scoped */
 
 
-const __vue_scope_id__ = "data-v-9e902c46";
+const __vue_scope_id__ = "data-v-6869b9c3";
 /* module identifier */
 
 const __vue_module_identifier__ = undefined;
