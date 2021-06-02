@@ -4,7 +4,7 @@
     <img
       src="https://i.postimg.cc/Y2NMhk3W/Logo-Hacktiv8-bordered-1.png"
       alt=""
-      class="logo-hacktiv8"
+      class="logo-hacktiv8 img-logo"
     />
   </div>
   <div class="footer-bottom-row">
@@ -78,9 +78,29 @@ export default {
     padding: 20px;
     align-items: center;
     margin-left: 20px;
+    cursor: pointer;
   }
   .social-link {
     margin-right: 20px;
     color: #7d7e7e;
+  }
+
+  .social-link-image:hover {
+    animation: rotation 8s infinite linear;
+  }
+  
+  @keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+  .img-logo {
+    transition: transform 0.7s ease-in-out;
+  }
+  .img-logo:hover {
+    transform: rotate(360deg);
   }
 </style>
