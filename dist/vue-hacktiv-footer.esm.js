@@ -200,12 +200,9 @@ var __vue_staticRenderFns__ = [function () {
   var _c = _vm._self._c || _h;
 
   return _c('div', {
-    staticClass: "footer",
-    attrs: {
-      "id": "hacktiv-footer"
-    }
+    staticClass: "footer-h8"
   }, [_c('div', {
-    staticClass: "footer-left"
+    staticClass: "footer-h8-left"
   }, [_c('img', {
     staticClass: "logo-hacktiv8 img-logo",
     attrs: {
@@ -213,7 +210,7 @@ var __vue_staticRenderFns__ = [function () {
       "alt": ""
     }
   })]), _vm._v(" "), _c('div', {
-    staticClass: "footer-bottom-row"
+    staticClass: "footer-h8-bottom-row"
   }, [_c('div', {
     staticClass: "social-links"
   }, [_c('a', {
@@ -269,8 +266,8 @@ var __vue_staticRenderFns__ = [function () {
 
 const __vue_inject_styles__ = function (inject) {
   if (!inject) return;
-  inject("data-v-2023ce65_0", {
-    source: "#hacktiv-footer.footer[data-v-2023ce65]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}#hacktiv-footer .footer-bottom-row[data-v-2023ce65]{margin-right:20px}#hacktiv-footer .footer-bottom-links[data-v-2023ce65]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}#hacktiv-footer .logo-hacktiv8[data-v-2023ce65]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}#hacktiv-footer .social-link[data-v-2023ce65]{margin-right:20px;color:#7d7e7e}#hacktiv-footer .social-link-image[data-v-2023ce65]:hover{animation:rotation-data-v-2023ce65 8s infinite linear}@keyframes rotation-data-v-2023ce65{from{transform:rotate(0)}to{transform:rotate(359deg)}}#hacktiv-footer .img-logo[data-v-2023ce65]{transition:transform .7s ease-in-out}#hacktiv-footer .img-logo[data-v-2023ce65]:hover{transform:rotate(360deg)}",
+  inject("data-v-87cc5850_0", {
+    source: ".footer-h8[data-v-87cc5850]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}.footer-h8-bottom-row[data-v-87cc5850]{margin-right:20px}.footer-h8-bottom-links[data-v-87cc5850]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}.logo-hacktiv8[data-v-87cc5850]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}.social-link[data-v-87cc5850]{margin-right:20px;color:#7d7e7e}.social-link-image[data-v-87cc5850]:hover{animation:rotation-data-v-87cc5850 8s infinite linear}@keyframes rotation-data-v-87cc5850{from{transform:rotate(0)}to{transform:rotate(359deg)}}.img-logo[data-v-87cc5850]{transition:transform .7s ease-in-out}.img-logo[data-v-87cc5850]:hover{transform:rotate(360deg)}",
     map: undefined,
     media: undefined
   });
@@ -278,7 +275,7 @@ const __vue_inject_styles__ = function (inject) {
 /* scoped */
 
 
-const __vue_scope_id__ = "data-v-2023ce65";
+const __vue_scope_id__ = "data-v-87cc5850";
 /* module identifier */
 
 const __vue_module_identifier__ = undefined;
