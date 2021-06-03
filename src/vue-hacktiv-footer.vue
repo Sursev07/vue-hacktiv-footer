@@ -1,5 +1,5 @@
 <template>
- <div class="footer">
+ <div class="footer" id="hacktiv-footer">
   <div class="footer-left">
     <img
       src="https://i.postimg.cc/Y2NMhk3W/Logo-Hacktiv8-bordered-1.png"
@@ -53,7 +53,7 @@ export default {
 </script>
 
 <style scoped>
-.footer {
+#hacktiv-footer.footer {
     border: none;
     display: flex;
     align-items: center;
@@ -63,29 +63,29 @@ export default {
     border-top: 1px solid #e6eaea;
   }
 
-  .footer-bottom-row {
+#hacktiv-footer .footer-bottom-row {
     margin-right: 20px;
   }
-  .footer-bottom-links {
+  #hacktiv-footer .footer-bottom-links {
     display: flex;
     justify-content: space-between;
     color: #a59e9c;
     font-size: 15px;
   }
 
-  .logo-hacktiv8 {
+  #hacktiv-footer .logo-hacktiv8 {
     max-width: 100px;
     padding: 20px;
     align-items: center;
     margin-left: 20px;
     cursor: pointer;
   }
-  .social-link {
+  #hacktiv-footer .social-link {
     margin-right: 20px;
     color: #7d7e7e;
   }
 
-  .social-link-image:hover {
+  #hacktiv-footer .social-link-image:hover {
     animation: rotation 8s infinite linear;
   }
   
@@ -97,10 +97,10 @@ export default {
     transform: rotate(359deg);
   }
 }
-  .img-logo {
+  #hacktiv-footer .img-logo {
     transition: transform 0.7s ease-in-out;
   }
-  .img-logo:hover {
+  #hacktiv-footer .img-logo:hover {
     transform: rotate(360deg);
   }
 </style>

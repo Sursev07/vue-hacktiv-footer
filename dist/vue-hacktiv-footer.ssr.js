@@ -227,8 +227,11 @@ var __vue_render__ = function __vue_render__() {
   var _c = _vm._self._c || _h;
 
   return _c('div', {
-    staticClass: "footer"
-  }, [_vm._ssrNode("<div class=\"footer-left\" data-v-6869b9c3><img src=\"https://i.postimg.cc/Y2NMhk3W/Logo-Hacktiv8-bordered-1.png\" alt class=\"logo-hacktiv8 img-logo\" data-v-6869b9c3></div> <div class=\"footer-bottom-row\" data-v-6869b9c3><div class=\"social-links\" data-v-6869b9c3><a href=\"https://twitter.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-6869b9c3><img src=\"https://img.icons8.com/metro/26/ffffff/twitter.png\" alt class=\"social-link-image\" data-v-6869b9c3></a><a href=\"https://www.facebook.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-6869b9c3><img src=\"https://img.icons8.com/metro/26/ffffff/facebook-new--v2.png\" alt class=\"social-link-image\" data-v-6869b9c3></a><a href=\"https://instagram.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-6869b9c3><img src=\"https://img.icons8.com/metro/26/ffffff/instagram-new.png\" alt class=\"social-link-image\" data-v-6869b9c3></a><a href=\"https://www.youtube.com/c/hacktiv8\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-6869b9c3><img src=\"https://img.icons8.com/metro/26/ffffff/youtube.png\" class=\"social-link-image\" data-v-6869b9c3></a></div></div>")]);
+    staticClass: "footer",
+    attrs: {
+      "id": "hacktiv-footer"
+    }
+  }, [_vm._ssrNode("<div class=\"footer-left\" data-v-2023ce65><img src=\"https://i.postimg.cc/Y2NMhk3W/Logo-Hacktiv8-bordered-1.png\" alt class=\"logo-hacktiv8 img-logo\" data-v-2023ce65></div> <div class=\"footer-bottom-row\" data-v-2023ce65><div class=\"social-links\" data-v-2023ce65><a href=\"https://twitter.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-2023ce65><img src=\"https://img.icons8.com/metro/26/ffffff/twitter.png\" alt class=\"social-link-image\" data-v-2023ce65></a><a href=\"https://www.facebook.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-2023ce65><img src=\"https://img.icons8.com/metro/26/ffffff/facebook-new--v2.png\" alt class=\"social-link-image\" data-v-2023ce65></a><a href=\"https://instagram.com/hacktiv8id\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-2023ce65><img src=\"https://img.icons8.com/metro/26/ffffff/instagram-new.png\" alt class=\"social-link-image\" data-v-2023ce65></a><a href=\"https://www.youtube.com/c/hacktiv8\" target=\"_blank\" class=\"social-link hover-link w-inline-block\" data-v-2023ce65><img src=\"https://img.icons8.com/metro/26/ffffff/youtube.png\" class=\"social-link-image\" data-v-2023ce65></a></div></div>")]);
 };
 
 var __vue_staticRenderFns__ = [];
@@ -236,8 +239,8 @@ var __vue_staticRenderFns__ = [];
 
 var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
   if (!inject) return;
-  inject("data-v-6869b9c3_0", {
-    source: ".footer[data-v-6869b9c3]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}.footer-bottom-row[data-v-6869b9c3]{margin-right:20px}.footer-bottom-links[data-v-6869b9c3]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}.logo-hacktiv8[data-v-6869b9c3]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}.social-link[data-v-6869b9c3]{margin-right:20px;color:#7d7e7e}.social-link-image[data-v-6869b9c3]:hover{animation:rotation-data-v-6869b9c3 8s infinite linear}@keyframes rotation-data-v-6869b9c3{from{transform:rotate(0)}to{transform:rotate(359deg)}}.img-logo[data-v-6869b9c3]{transition:transform .7s ease-in-out}.img-logo[data-v-6869b9c3]:hover{transform:rotate(360deg)}",
+  inject("data-v-2023ce65_0", {
+    source: "#hacktiv-footer.footer[data-v-2023ce65]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}#hacktiv-footer .footer-bottom-row[data-v-2023ce65]{margin-right:20px}#hacktiv-footer .footer-bottom-links[data-v-2023ce65]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}#hacktiv-footer .logo-hacktiv8[data-v-2023ce65]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}#hacktiv-footer .social-link[data-v-2023ce65]{margin-right:20px;color:#7d7e7e}#hacktiv-footer .social-link-image[data-v-2023ce65]:hover{animation:rotation-data-v-2023ce65 8s infinite linear}@keyframes rotation-data-v-2023ce65{from{transform:rotate(0)}to{transform:rotate(359deg)}}#hacktiv-footer .img-logo[data-v-2023ce65]{transition:transform .7s ease-in-out}#hacktiv-footer .img-logo[data-v-2023ce65]:hover{transform:rotate(360deg)}",
     map: undefined,
     media: undefined
   });
@@ -245,10 +248,10 @@ var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
 /* scoped */
 
 
-var __vue_scope_id__ = "data-v-6869b9c3";
+var __vue_scope_id__ = "data-v-2023ce65";
 /* module identifier */
 
-var __vue_module_identifier__ = "data-v-6869b9c3";
+var __vue_module_identifier__ = "data-v-2023ce65";
 /* functional template */
 
 var __vue_is_functional_template__ = false;

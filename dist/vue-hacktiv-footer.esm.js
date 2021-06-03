@@ -200,7 +200,10 @@ var __vue_staticRenderFns__ = [function () {
   var _c = _vm._self._c || _h;
 
   return _c('div', {
-    staticClass: "footer"
+    staticClass: "footer",
+    attrs: {
+      "id": "hacktiv-footer"
+    }
   }, [_c('div', {
     staticClass: "footer-left"
   }, [_c('img', {
@@ -266,8 +269,8 @@ var __vue_staticRenderFns__ = [function () {
 
 const __vue_inject_styles__ = function (inject) {
   if (!inject) return;
-  inject("data-v-6869b9c3_0", {
-    source: ".footer[data-v-6869b9c3]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}.footer-bottom-row[data-v-6869b9c3]{margin-right:20px}.footer-bottom-links[data-v-6869b9c3]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}.logo-hacktiv8[data-v-6869b9c3]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}.social-link[data-v-6869b9c3]{margin-right:20px;color:#7d7e7e}.social-link-image[data-v-6869b9c3]:hover{animation:rotation-data-v-6869b9c3 8s infinite linear}@keyframes rotation-data-v-6869b9c3{from{transform:rotate(0)}to{transform:rotate(359deg)}}.img-logo[data-v-6869b9c3]{transition:transform .7s ease-in-out}.img-logo[data-v-6869b9c3]:hover{transform:rotate(360deg)}",
+  inject("data-v-2023ce65_0", {
+    source: "#hacktiv-footer.footer[data-v-2023ce65]{border:none;display:flex;align-items:center;justify-content:space-between;font-size:14px;background-color:#000;border-top:1px solid #e6eaea}#hacktiv-footer .footer-bottom-row[data-v-2023ce65]{margin-right:20px}#hacktiv-footer .footer-bottom-links[data-v-2023ce65]{display:flex;justify-content:space-between;color:#a59e9c;font-size:15px}#hacktiv-footer .logo-hacktiv8[data-v-2023ce65]{max-width:100px;padding:20px;align-items:center;margin-left:20px;cursor:pointer}#hacktiv-footer .social-link[data-v-2023ce65]{margin-right:20px;color:#7d7e7e}#hacktiv-footer .social-link-image[data-v-2023ce65]:hover{animation:rotation-data-v-2023ce65 8s infinite linear}@keyframes rotation-data-v-2023ce65{from{transform:rotate(0)}to{transform:rotate(359deg)}}#hacktiv-footer .img-logo[data-v-2023ce65]{transition:transform .7s ease-in-out}#hacktiv-footer .img-logo[data-v-2023ce65]:hover{transform:rotate(360deg)}",
     map: undefined,
     media: undefined
   });
@@ -275,7 +278,7 @@ const __vue_inject_styles__ = function (inject) {
 /* scoped */
 
 
-const __vue_scope_id__ = "data-v-6869b9c3";
+const __vue_scope_id__ = "data-v-2023ce65";
 /* module identifier */
 
 const __vue_module_identifier__ = undefined;
